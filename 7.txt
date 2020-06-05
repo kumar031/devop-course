@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added7.txt
+=======
+7.txtadde edited
+>>>>>>> 8f0a37fcb2777f970deb1a4b14e0d5c326b1d247
